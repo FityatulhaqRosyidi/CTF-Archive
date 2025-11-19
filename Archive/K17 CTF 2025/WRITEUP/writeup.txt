@@ -1,0 +1,13 @@
+
+pwnable document format 
+https://jia.je/ctf-writeups/2025-09-19-k17-ctf-2025/pwnable-document-format.html
+
+janus 
+https://jia.je/ctf-writeups/2025-09-19-k17-ctf-2025/janus.html
+
+autofill
+https://jia.je/ctf-writeups/2025-09-19-k17-ctf-2025/autofill.html
+
+
+
+
