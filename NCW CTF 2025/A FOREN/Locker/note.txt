@@ -1,0 +1,9 @@
+Brian made a fatal mistake yesterday. He clicked on something he shouldn't have. Now, the fate of his data rests in your hands. Analyze the captured pcap and binary files, then answer the questions to retrieve the Flag.
+
+https://drive.google.com/drive/folders/1N3A2ApuPpaEW7iD6HqUFJ2kSFbXhyQW4?usp=sharing
+
+pass: c3Vrc2VzIGRhbiBzZWxhbWF0IGJlcmp1YW5n
+
+Author: Arenaru
+
+nc 31.97.187.222 27312
